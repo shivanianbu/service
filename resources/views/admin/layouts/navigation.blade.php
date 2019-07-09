@@ -1,9 +1,4 @@
 <div class="o-page__sidebar js-page-sidebar">
-    <aside class="c-sidebar">
-        <div class="c-sidebar__brand">
-            <a href="{{ url('client/home') }}"></a>
-        </div>
-
 
         <div class="c-sidebar__body">
             <ul class="c-sidebar__list">
